@@ -1,0 +1,5 @@
+C:\Users\ALEJANDRO TORRADO\source\repos\kickbet db\kickbet db\obj\Debug\kickbet db.csproj.AssemblyReference.cache
+C:\Users\ALEJANDRO TORRADO\source\repos\kickbet db\kickbet db\obj\Debug\kickbet_db.Form1.resources
+C:\Users\ALEJANDRO TORRADO\source\repos\kickbet db\kickbet db\obj\Debug\kickbet_db.Properties.Resources.resources
+C:\Users\ALEJANDRO TORRADO\source\repos\kickbet db\kickbet db\obj\Debug\kickbet db.csproj.GenerateResource.cache
+C:\Users\ALEJANDRO TORRADO\source\repos\kickbet db\kickbet db\obj\Debug\kickbet db.csproj.CoreCompileInputs.cache
